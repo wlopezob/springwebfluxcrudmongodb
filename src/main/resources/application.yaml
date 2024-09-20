@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: myapi
+  webflux:
+    base-path: /api/v1
+server:
+  port: 8084
